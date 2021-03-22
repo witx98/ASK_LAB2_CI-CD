@@ -1,0 +1,2 @@
+C:\Users\Mati\source\repos\lab4\Debug\lab4.exe
+C:\Users\Mati\source\repos\lab4\Debug\lab4.pdb
